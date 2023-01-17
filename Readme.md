@@ -61,5 +61,5 @@ In summary, both FastAPI and Flask do not have built-in support for serializers 
 http://127.0.0.1:8000/swagger/
 
 <div>
-  <img src="./image/swagger.png" width=500px height=500px>
+  <img src="./image/swagger.png">
 </div>
