@@ -55,3 +55,11 @@ FastAPI uses Pydantic library to handle input and output data validation, it pro
 Flask does not provide a built-in way to handle data validation and serialization, but there are many libraries that can be used with Flask to handle this. For example, the Flask-Marshmallow library provides support for serializing and deserializing data using the Marshmallow library, which is similar to Django REST framework's serializers.
 
 In summary, both FastAPI and Flask do not have built-in support for serializers like Django REST framework does. However, you can use third-party libraries like Pydantic or Flask-Marshmallow to handle data validation and serialization in FastAPI and Flask respectively.
+
+## Swagger 
+
+http://127.0.0.1:8000/swagger/
+
+<div>
+  <img src="./image/swagger.png" width=500px height=500px>
+</div>
